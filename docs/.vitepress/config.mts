@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/mjgalerieart/",
+  base: "/",
   title: "MJ Galerie d'Art",
   description: "MJ Galerie d'Art",
   themeConfig: {
